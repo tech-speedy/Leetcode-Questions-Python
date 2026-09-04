@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0704-binary-search) |
 ## Binary Search
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0225-implement-stack-using-queues) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
