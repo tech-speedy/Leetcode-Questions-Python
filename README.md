@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0347-top-k-frequent-elements) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
