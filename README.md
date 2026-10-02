@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0435-non-overlapping-intervals) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0412-fizz-buzz) |
 ## Stack
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0435-non-overlapping-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
