@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0704-binary-search) |
 ## Binary Search
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/main/0148-sort-list/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
