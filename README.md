@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
