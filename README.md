@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0412-fizz-buzz) |
 ## Recursion
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
