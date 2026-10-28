@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0771-jewels-and-stones) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
