@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0383-ransom-note) |
