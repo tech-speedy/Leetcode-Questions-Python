@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0128-longest-consecutive-sequence) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0070-climbing-stairs) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0032-longest-valid-parentheses) |
