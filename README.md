@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0435-non-overlapping-intervals) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions-Python/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
